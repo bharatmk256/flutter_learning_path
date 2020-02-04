@@ -1,0 +1,30 @@
+[
+    {
+        "name":"Bharat Makwana",
+        "age":"20",
+        "height":"172",
+        "gender":"male",
+        "hair_color":"Black"
+    },
+    {
+        "name":"Bhavik Makwana",
+        "age":"23",
+        "height":"178",
+        "gender":"male",
+        "hair_color":"Black"
+    },
+    {
+        "name":"Tirth Patel",
+        "age":"21",
+        "height":"177",
+        "gender":"male",
+        "hair_color":"Black"
+    },
+    {
+        "name":"Yakshangi Joshi",
+        "age":"17",
+        "height":"170",
+        "gender":"female",
+        "hair_color":"Black"
+    }
+]
