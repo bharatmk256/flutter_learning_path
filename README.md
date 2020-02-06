@@ -6,7 +6,7 @@
     - [x]  **Calculator App :-** [https://youtu.be/Ss1HkZ3LnRY](https://youtu.be/Ss1HkZ3LnRY)
     - [x]  **Material Chat App Design (Optional) :-** [https://youtu.be/Yd-bgqe3DxA](https://youtu.be/Yd-bgqe3DxA)
     - [x]  **Local JSON App (Must) :-** [https://youtu.be/bTwTKwK3hGc](https://youtu.be/bTwTKwK3hGc)
-    - [ ]  **Fetching Data Using HTTP (Must) :-** [https://youtu.be/aIJU68Phi1w](https://youtu.be/aIJU68Phi1w)
+    - [x]  **Fetching Data Using HTTP (Must) :-** [https://youtu.be/aIJU68Phi1w](https://youtu.be/aIJU68Phi1w)
     - [ ]  **Crypto App (Must) :-** [https://youtu.be/cPlaYS4eqe4](https://youtu.be/cPlaYS4eqe4)
     - [ ]  **Material Drawer (Must) :-** [https://youtu.be/JWuXj0BY_s4](https://youtu.be/JWuXj0BY_s4)
     - [ ]  **Swipe to dismiss List (Optional) :-** [https://youtu.be/AzOONgeCVKg](https://youtu.be/AzOONgeCVKg)
