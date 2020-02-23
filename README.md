@@ -13,7 +13,7 @@
     - [X]  **Bottom Sheet Tutorial :-** [https://youtu.be/KpR5fQx_V2c](https://youtu.be/KpR5fQx_V2c)
     - [X]  **Age Calculator App :-** [https://youtu.be/6y9Ce76amjY](https://youtu.be/6y9Ce76amjY)
     - [X]  **Login Page :-** [https://youtu.be/iYH2jzUM1Nc](https://youtu.be/iYH2jzUM1Nc)
-    - [ ]  **SQflite + MVP + Login Tutorial :-** [https://youtu.be/Yzfxqd9-6QY](https://youtu.be/Yzfxqd9-6QY)
+    - [X]  **SQflite + MVP + Login Tutorial :-** [https://youtu.be/Yzfxqd9-6QY](https://youtu.be/Yzfxqd9-6QY)
     - [ ]  **Making WhatsApp Clone UI (Must) :-** [https://youtu.be/2Tyrofn6zPg](https://youtu.be/2Tyrofn6zPg)
     - [ ]  **TicTacToe Game (Must) :-** [https://youtu.be/u1KD6Kz0PIQ](https://youtu.be/u1KD6Kz0PIQ)
     - [ ]  **Flutter App Lifecycle (Must) :-** [https://youtu.be/f9m_Wc4K5v0](https://youtu.be/f9m_Wc4K5v0)
